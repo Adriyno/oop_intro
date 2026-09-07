@@ -11,7 +11,7 @@ namespace DemoApplication
             int number2 = 20;
             int sum = number1 + number2;
 
-            Console.WriteLine("The sum of 10 and 20 is: " + sum);
+            Console.WriteLine($"The sum of {number1} and {number2} is: {sum}");
         }
     }
 }
