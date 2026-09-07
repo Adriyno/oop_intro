@@ -1,6 +1,7 @@
 # My Exercises
 
 Useful links:
+- [Githubs entertaintment] (https://www.youtube.com/watch?v=jNQXAC9IVRw)
 - [Githubs support for
 ,→ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax- [Is it Christmas?](https://isitchristmas.com)
 
