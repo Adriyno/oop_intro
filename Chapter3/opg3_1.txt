@@ -1,0 +1,17 @@
+using System;
+
+namespace DemoApplication
+{
+    class Program
+    {
+        // The Main method is the starting point of the application
+        static void Main(string[] args)
+        {
+            int number1 = 10;
+            int number2 = 20;
+            int sum = number1 + number2;
+
+            Console.WriteLine("The sum of 10 and 20 is: " + sum);
+        }
+    }
+}
